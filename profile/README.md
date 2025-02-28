@@ -4,7 +4,7 @@
   </a>
   <h1 align="center">Back Office</h1>
   <p align="center">
-    The infrastructure of your business.
+    The Open Infrastructure for Your Business.
     <br />
     <a href="https://backoffice.co.th"><strong>Learn more »</strong></a>
   </p>
